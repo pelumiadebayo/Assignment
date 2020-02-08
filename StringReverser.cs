@@ -4,6 +4,7 @@ namespace Reverser
 {
     public  class StringReverser
     {
+        //The class to reverse our string
         public static string ReverseString(string myString)
         {
             string reversedString = "";
