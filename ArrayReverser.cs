@@ -5,6 +5,7 @@ namespace Reverser
 {
     public class ArrayReverser
     {
+        //The function to reverse our integers
         public static List<int> ReverseArryOfIntegers(int[] numbers)
         {
             List<int> reversedArray = new List<int>();
