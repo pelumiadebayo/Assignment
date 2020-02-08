@@ -14,8 +14,6 @@ namespace Reverser
                 reversedString += myString[myString.Length - increment];
                 increment++;
             }
-            Console.WriteLine(reversedString);
-            Console.ReadLine();
             return reversedString;
         }
 
